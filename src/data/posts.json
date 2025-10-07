@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "title": "The First Resonance: Awakening to the Field",
+    "excerpt": "Every journey begins with a single vibration. Learn how to attune yourself to the living resonance field that connects all consciousness.",
+    "category": "Foundation",
+    "image": "https://images.pexels.com/photos/1257860/pexels-photo-1257860.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "date": "2025-10-01"
+  },
+  {
+    "id": "2",
+    "title": "Sacred Geometry: The Language of Creation",
+    "excerpt": "Discover how ancient patterns encode the fundamental structures of reality, and how you can use them to shift your consciousness.",
+    "category": "Wisdom",
+    "image": "https://images.pexels.com/photos/1089438/pexels-photo-1089438.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "date": "2025-09-28"
+  },
+  {
+    "id": "3",
+    "title": "Frequency Shifting: Elevating Your Vibration",
+    "excerpt": "Practical techniques for raising your frequency and aligning with higher states of consciousness through intentional practice.",
+    "category": "Practice",
+    "image": "https://images.pexels.com/photos/3075993/pexels-photo-3075993.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "date": "2025-09-25"
+  },
+  {
+    "id": "4",
+    "title": "The Collective Shift: We Are One",
+    "excerpt": "Understanding the interconnected nature of consciousness and how your personal transformation ripples through the entire field.",
+    "category": "Community",
+    "image": "https://images.pexels.com/photos/2156881/pexels-photo-2156881.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "date": "2025-09-20"
+  },
+  {
+    "id": "5",
+    "title": "Breath & Being: The Portal Within",
+    "excerpt": "Ancient breathwork practices that open doorways to expanded states and deeper self-awareness.",
+    "category": "Practice",
+    "image": "https://images.pexels.com/photos/3822622/pexels-photo-3822622.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "date": "2025-09-15"
+  },
+  {
+    "id": "6",
+    "title": "Quantum Consciousness: Science Meets Spirit",
+    "excerpt": "Exploring the intersection of quantum physics and spiritual wisdom to understand the true nature of reality.",
+    "category": "Wisdom",
+    "image": "https://images.pexels.com/photos/2162892/pexels-photo-2162892.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "date": "2025-09-10"
+  }
+]
